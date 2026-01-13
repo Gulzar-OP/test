@@ -1,0 +1,1 @@
+<img src="docs/G_pic.jpg" width="100">
