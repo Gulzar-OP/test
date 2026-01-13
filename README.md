@@ -1,1 +1,1 @@
-<img src="docs/G_pic.jpg" width="500" height="200">
+<img src="docs/G_pic.jpg" width="500" height="300">
